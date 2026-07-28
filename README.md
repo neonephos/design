@@ -1,8 +1,8 @@
 # 🎨 Design
 
-Welcome to the Neonephos Design repository.
+Welcome to the NeoNephos Design repository.
 
-This repository is the central place for all design-related work within the Neonephos Foundation.
+This repository is the central place for all design-related work within the NeoNephos Foundation.
 
 ---
 
